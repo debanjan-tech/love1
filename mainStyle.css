@@ -1,0 +1,24 @@
+body{
+    background-color:#4f9db1da;
+    margin: 20px,20px,20px,20px;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+   
+}
+p{
+    text-align: center;
+    font-family: cursive;
+}
+h4{
+   position: absolute;
+   left:380px;
+   top: 400px;
+   
+}
+h3{
+    position: absolute;
+    left:380px;
+    top: 900px;
+}
